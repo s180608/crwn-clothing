@@ -10,7 +10,7 @@ const Homepage = () => (
 );
 
 
-export default withRouter(Homepage);
+export default Homepage;
 
 
 
